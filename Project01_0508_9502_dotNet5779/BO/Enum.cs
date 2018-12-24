@@ -12,4 +12,4 @@ namespace BO
         enum gearBox { automatic, manual };
         enum gender { male, female };
     }
-}
+} //note...
